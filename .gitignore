@@ -1,0 +1,7 @@
+.devcontainer/
+__pycache__
+.egg
+data/
+models/
+inference_models/
+deploy_docker/set_project_env.sh
